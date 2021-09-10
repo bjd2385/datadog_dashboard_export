@@ -1,0 +1,1 @@
+resource "datadog_dashboard" "<datadog_dashboard_name>" {}
