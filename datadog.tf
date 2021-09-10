@@ -1,1 +1,1 @@
-resource "datadog_dashboard" "<datadog_dashboard_name>" {}
+resource "datadog_dashboard" "dashboard" {}
